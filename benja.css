@@ -1,0 +1,20 @@
+body {
+ background-color: aqua; /*color de fondo
+}
+h1 {
+ text-align: center; /* Centrar título */
+ color: black;/* Color del título */
+}
+
+p {
+    text-align: left;/*Alinear a la izquierda*/
+ text-align: justify; /* Justificar párrafo */
+ color: black; /* Color del texto del párrafo*/
+}
+.papá{
+    display: flex;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;/* ajusta el margen segun sea necesario*/
+}
